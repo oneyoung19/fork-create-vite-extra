@@ -14,11 +14,11 @@
     "compression": "^1.7.4",
     "express": "^4.19.2",
     "sirv": "^2.0.4",
-    "vue": "^3.4.23"
+    "vue": "^3.4.27"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.0.4",
+    "@vitejs/plugin-vue": "^5.0.5",
     "cross-env": "^7.0.3",
-    "vite": "^5.2.10"
+    "vite": "^5.2.13"
   }
 }

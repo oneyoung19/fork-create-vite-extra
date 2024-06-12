@@ -1,7 +1,7 @@
-import { defineConfig } from 'npm:vite@^5.2.10'
+import { defineConfig } from 'npm:vite@^5.2.13'
 import preact from 'npm:@preact/preset-vite@^2.8.2'
 
-import 'npm:preact@^10.20.2'
+import 'npm:preact@^10.22.0'
 
 // Workaround Preact babel plugin issue in Deno: https://github.com/bluwy/create-vite-extra/issues/34
 import 'npm:@babel/plugin-transform-react-jsx-development@^7.22.5'
